@@ -23,4 +23,7 @@ For any inquiries, please contact [balkischachia12@gmail.com]
 ![Capture d'écran 2024-04-07 151337](https://github.com/balkisch1/Delivery-website-Springboot/assets/114836031/ea25e23b-806d-4b3e-896a-78a9417912a2)
 ![Capture d'écran 2024-04-07 151325](https://github.com/balkisch1/Delivery-website-Springboot/assets/114836031/e125bd65-d1d0-4e4d-9136-10f03b07fb27)
 ![Capture d'écran 2024-04-07 151309](https://github.com/balkisch1/Delivery-website-Springboot/assets/114836031/d4c64c04-99ac-4ecc-8e39-c4a02533d04d)
+## Admin Interface
+![Capture d'écran 2024-04-07 151413](https://github.com/balkisch1/Delivery-website-Springboot/assets/114836031/0eca176d-d748-4530-a0fc-5a27078ef3bf)
+![Capture d'écran 2024-04-07 151403](https://github.com/balkisch1/Delivery-website-Springboot/assets/114836031/2755f744-5263-485f-89b0-0d33979ea057)
 
