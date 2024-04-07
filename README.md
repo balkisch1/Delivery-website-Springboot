@@ -13,5 +13,8 @@ This repository contains the source code for a delivery website built using Spri
 
 ## Contact
 For any inquiries, please contact [balkischachia12@gmail.com]
+ScreenShots
+Home Page and login
 ![Capture d'écran 2024-04-07 150957](https://github.com/balkisch1/Delivery-website-Springboot/assets/114836031/8936b2a3-2e4c-4b04-9deb-32bc6783e9de)
 
+Signup Screen
